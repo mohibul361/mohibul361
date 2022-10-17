@@ -10,7 +10,7 @@ I am fresher but very interested to be a great developer. I am working on java s
 
 Skills: Java EE/ JS / HTML / CSS/Java Spring/ Hibernate/DBMS/LINUX
 
-- 🔭 I’m currently working on Employee Management System 
+- 🔭 I’m currently working on Shop Management System 
 - 🌱 I’m currently learning Linux/DevOps 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web Development. 
