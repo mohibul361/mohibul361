@@ -8,7 +8,7 @@
 
 I am fresher but very interested to be a great developer. I am working on java spring MVC/Boot for responsive website. Sometimes I also do PHP oriented project.
 
-Skills: Java EE/ JS / HTML / CSS/Java Spring/ Hibernate/DBMS/LINUX
+Skills: Java EE/ JS / HTML / CSS /Java Spring/ Hibernate/MySQL / LINUX/ JPA/ JSON/ Maven
 
 - 🔭 I’m currently working on Shop Management System 
 - 🌱 I’m currently learning Linux/DevOps 
