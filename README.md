@@ -1,4 +1,4 @@
-![I am a Web Developer mainly working on Spring boot, Spring MVC and Servlet](https://scontent.fdac31-1.fna.fbcdn.net/v/t1.6435-9/89778048_1060797114297199_2174080615232569344_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=xNwnTqts8pwAX_Sk7Z5&_nc_ht=scontent.fdac31-1.fna&oh=00_AT-qn69GVTYYzPPKzNS6yu1Zcb39zaqr0bZknEp-BzSzMg&oe=6286704D)
+![I am a Web Developer mainly working on Spring boot, Spring MVC and Servlet, react js, angular](https://scontent.fdac31-1.fna.fbcdn.net/v/t1.6435-9/89778048_1060797114297199_2174080615232569344_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=xNwnTqts8pwAX_Sk7Z5&_nc_ht=scontent.fdac31-1.fna&oh=00_AT-qn69GVTYYzPPKzNS6yu1Zcb39zaqr0bZknEp-BzSzMg&oe=6286704D)
 ### Hi there 👋
 
 
@@ -6,12 +6,12 @@
 ### Hi there 👋, my name is Mohibul Islam
 #### I am a Web Developer
 
-I am Software Engineer at Suffix IT Limited and explore myself as a great developer. I am working on java spring MVC/Boot for responsive website. Sometimes I also do PHP oriented project.
+I am Software Engineer at Suffix IT Limited and explore myself as a great developer. I am working on java spring MVC/Boot for responsive website. Sometimes I also do PHP oriented project. I have also experienced to working with Bootstrap, JavaScript, react js, angular.
 
-Skills: Java EE/ JS / HTML / CSS /Java Spring/ Hibernate/MySQL / LINUX/ JPA/ JSON/ Maven
+Skills: Java EE/ JS / HTML / CSS /Java Spring/ Hibernate/MySQL / LINUX/ JPA/ JSON/ Maven/ Bootstrap/ JavaScript/ react js/ angular
 
-- 🔭 I’m currently working on Inventory Management System 
-- 🌱 I’m currently learning Ajax and Jquery
+- 🔭 I’m currently working on AWS 
+- 🌱 I’m currently learning AWS and Nginx
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web Development. 
 
